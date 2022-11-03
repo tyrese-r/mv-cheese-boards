@@ -1,0 +1,17 @@
+# Requirements
+- [ ] Sequelize connects to the database 💎
+- [ ] User model has name as a string 🧵
+- [ ] User model has email as a string 📧
+- [ ] User model is tested 👨‍🔬
+- [ ] Board model has type as a string  🧵
+- [ ] Board model has description 💁‍♂️
+- [ ] Board model has rating as a number ⭐️
+- [ ] Board model is tested ✅
+- [ ] Cheese model has title as a string 📏
+- [ ] Cheese model has description as a string 🧀
+- [ ] Cheese model is tested 🧪
+- [ ] Multiple boards can be added to a User 🏃‍♀️
+- [ ] Board - User relationship is tested 👨‍👩‍👧
+- [ ] A Board can have many Cheeses, and a Cheese can be on many Boards 🧀 🧀
+- [ ] Board - Cheese relationship is tested 🔬
+- [ ] Eager Loading tests: A board can be loaded with its cheeses 🦅
